@@ -14,7 +14,7 @@ from telethon.sessions import StringSession
 # 1. Outreach Accounts (➕ Add Number):
 #    - Watch configured groups & queue users
 #    - Send Outreach DM + Direct Group Reply (with Sent by account & Delete Timer)
-#    - Have their OWN separate Incoming DM Reply message ("💬 𝗢𝘂𝘁𝗿𝗲𝗮𝗰𝗵 𝗗𝗠 𝗥𝗲𝗽𝗹𝘆")
+#    - Hav their OWN separate Incoming DM Reply message ("💬 𝗢𝘂𝘁𝗿𝗲𝗮𝗰𝗵 𝗗𝗠 𝗥𝗲𝗽𝗹𝘆")
 #      when a group user replies back to the outreach account in DM!
 # 2. Personal Auto DM Account (🤖 𝗣𝗲𝗿𝘀𝗼𝗻𝗮𝗹 𝗔𝘂𝘁𝗼 𝗗𝗠):
 #    - Separate OTP login for your personal/dedicated ID
